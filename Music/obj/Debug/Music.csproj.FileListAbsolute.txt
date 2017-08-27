@@ -1,1 +1,10 @@
 D:\MyMusic\Music\Music\bin\Debug\Music.exe.config
+D:\MyMusic\dupenglai_Repository\Music\bin\Debug\Music.exe.config
+D:\MyMusic\dupenglai_Repository\Music\bin\Debug\Music.exe
+D:\MyMusic\dupenglai_Repository\Music\bin\Debug\Music.pdb
+D:\MyMusic\dupenglai_Repository\Music\obj\Debug\Music.csprojResolveAssemblyReference.cache
+D:\MyMusic\dupenglai_Repository\Music\obj\Debug\Music.Properties.Resources.resources
+D:\MyMusic\dupenglai_Repository\Music\obj\Debug\Music.csproj.GenerateResource.Cache
+D:\MyMusic\dupenglai_Repository\Music\obj\Debug\Music.exe
+D:\MyMusic\dupenglai_Repository\Music\obj\Debug\Music.pdb
+D:\MyMusic\dupenglai_Repository\Music\obj\Debug\Music.MainForm.resources
